@@ -1,1 +1,2 @@
 There was once a girl who lived in Madison. She was in a computer science class and worked hard to finish all the assignments. She hoped one day she would graduate.
+She once came across a team in her computer science class. They were forced to create a story using git. Each team member had to add their own part to the story.
